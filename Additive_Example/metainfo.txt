@@ -1,0 +1,13 @@
+Name of Quantlet: 'Additive_Example'
+
+Published in: 'METIS'
+
+Description: 'generate additive model and plot shapley values against both functions of the DGP.'
+
+Keywords: 'Shapley, additive model, SHAP, Interpretability, Explainable AI'
+
+Author: 'Ratmir Miftachov'
+
+
+
+
