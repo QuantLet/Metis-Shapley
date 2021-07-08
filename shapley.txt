@@ -1,0 +1,9 @@
+Name of Quantlet: Metis-Shapley
+
+Published in: METIS
+
+Description: Generate an additive model. Then calculate SHAP values.
+
+Keywords: Shapley, additive model, SHAP, Interpretability, Explainable AI 
+
+Author: Ratmir Miftachov
