@@ -1,0 +1,13 @@
+Name of Quantlet: 'Boosting_example'
+
+Published in: 'METIS'
+
+Description: 'Predict housing price using the Boston housing data set. Then calculate SHAP values and plot the respective figures.'
+
+Keywords: 'Shapley, Boosting, SHAP, Interpretability, Explainable AI'
+
+Author: 'Ratmir Miftachov'
+
+
+
+
